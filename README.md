@@ -1,5 +1,6 @@
 # A-tradeoff-between-acoustic-and-linguistic-feature-encoding-
 Codes used in the paper "A tradeoff between acoustic and linguistic feature encoding in spoken language comprehension"
+eLife2023;12:e82386 DOI: https://doi.org/10.7554/eLife.82386
 
 - Generate .csv files that contains word and phoneme onsets of stories
 1) Run WebMaus forced aligner to generate .TextGrid files
